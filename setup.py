@@ -32,6 +32,6 @@ setup(
     ],
     install_requires = [
         'ProxyTypes>=0.9',
-        'Django >=1.5,
+        'Django >=1.5',
     ],
 )
